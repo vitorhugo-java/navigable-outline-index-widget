@@ -1,7 +1,7 @@
 name: scrollable_positioned_list_index
 description: >
-  A navigable outline/index widget for Flutter that provides a table of contents
-  with smooth scrolling and position tracking, similar to modern editor outlines.
+  A Flutter widget that provides a synchronized, navigable outline index for scrollable lists, 
+  allowing easy section jumping and current position highlighting.
 version: 0.1.0
 homepage: https://github.com/vitorhugo1207/scrollable_positioned_list_index
 repository: https://github.com/vitorhugo1207/scrollable_positioned_list_index
@@ -18,3 +18,10 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^3.0.0
+
+topics:
+  - scroll
+  - list
+  - navigation
+  - index
+  - outline
